@@ -43,8 +43,7 @@ This project involves controlling a car wirelessly using hand gestures. A glove 
 4. The motor driver then actuates the motors accordingly, enabling the car to move in the direction corresponding to the user's hand gesture.
 
 ### **Flow Chart**
-![image](https://github.com/user-attachments/assets/2100d93d-243e-40a3-b887-98b8778aae44)
-
+![image](https://github.com/user-attachments/assets/2dcade15-9420-4741-96fe-eaa2e61d3cbf)
 
 ## **How to Run**
 
