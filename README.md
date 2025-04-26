@@ -52,14 +52,18 @@ This project involves controlling a car wirelessly using hand gestures. A glove 
 3. Power both units using their battery packs.
 4. Wear the glove and control the car by moving your hand!
 
-## **Future Improvements**
+## Application
 
+### Civil
+- In the future we can design a wireless robot that can sense hand gestures by using wireless technologies.
+- Our system has shown the possibility that interaction with machines through gestures is a feasible task and the set of detected gestures could be enhanced to more commands by implementing a more complex model of an advanced vehicle not only in limited space but also in the broader area as in the roads too.
+- In the future, service robots can replace humans.
 
-## License
-This project is open-source and available under the MIT License.
+### Defense
+- It can be used in Mil Ops as a robotic vehicle that can be handled by a soldier to avoid casualties.
+- It can help to identify the location of enemies or terrorists at the time of Mil Ops to avoid causalities. 
+- It can also help to detect mines to reduce fatalities.
+- Assits in CASO
 
-
-
-
-
-
+## Real Life Pics
+![20230125_191518](https://github.com/user-attachments/assets/367e98a0-8fc0-4030-be73-31f18de375e0)
