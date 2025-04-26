@@ -1,4 +1,4 @@
-**Hand Gesture Controlled Bot**
+> **Hand Gesture Controlled Bot**
 
 A wireless, gesture-controlled robotic car project using Arduino Uno, NRF24L01 modules, and MPU6050 sensors.
 
