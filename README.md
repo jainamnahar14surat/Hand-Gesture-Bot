@@ -1,4 +1,4 @@
-> **Hand Gesture Controlled Bot**
+#**Hand Gesture Controlled Bot**
 
 A wireless, gesture-controlled robotic car project using Arduino Uno, NRF24L01 modules, and MPU6050 sensors.
 
@@ -28,6 +28,26 @@ This project involves controlling a car wirelessly using hand gestures. A glove 
 5. Wheels
 6. Chassis
 7. Battery Pack
+
+**How to Run**
+
+1. Upload transfer.ino to the Arduino Uno in the glove.
+2. Upload receiver.ino to the Arduino Uno in the car.
+3. Power both units using their battery packs.
+4. Wear the glove and control the car by moving your hand!
+
+**Future Improvements**
+
+Add obstacle detection (e.g., using ultrasonic sensors).
+
+Implement more complex gestures for additional actions.
+
+Make the glove more ergonomic and lightweight.
+
+Integrate Bluetooth for additional mobile control.
+
+License
+This project is open-source and available under the MIT License.
 
 
 
