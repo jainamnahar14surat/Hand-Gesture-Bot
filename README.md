@@ -12,6 +12,23 @@ This project involves controlling a car wirelessly using hand gestures. A glove 
 2. receiver.ino – Code for the receiver unit.
 
 
+****Components Used****
+
+**- Transmitter** 
+1. Arduino Uno
+2. NRF24L01 wireless module
+3. MPU6050 (Accelerometer + Gyroscope)
+4. Battery Pack 
+
+**- Receiver (Car Unit)**
+1. Arduino Uno
+2. NRF24L01 wireless module
+3. L298N Motor Driver
+4. Motors (DC motors)
+5. Wheels
+6. Chassis
+7. Battery Pack
+
 
 
 
