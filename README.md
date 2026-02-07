@@ -67,3 +67,12 @@ This project involves controlling a car wirelessly using hand gestures. A glove 
 
 ## Real Life Pics
 ![20230125_191518](https://github.com/user-attachments/assets/367e98a0-8fc0-4030-be73-31f18de375e0)
+
+## Contact
+
+Feel free to reach out for collaborations or just a friendly hello!
+
+-   **Email:** naharjainam91@gmail.com
+-   **LinkedIn:** https://www.linkedin.com/in/jainam-nahar-280292253
+-   **GitHub:** https://github.com/jainamnahar14surat
+-   **Website** https://jaina-portfolio.netlify.app/
